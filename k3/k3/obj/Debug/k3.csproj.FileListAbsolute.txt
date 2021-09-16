@@ -1,0 +1,24 @@
+C:\Users\User\source\repos\k3\k3\bin\Debug\k3.exe.config
+C:\Users\User\source\repos\k3\k3\bin\Debug\k3.exe
+C:\Users\User\source\repos\k3\k3\bin\Debug\k3.pdb
+C:\Users\User\source\repos\k3\k3\obj\Debug\k3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\k3\k3\obj\Debug\k3.Form1.resources
+C:\Users\User\source\repos\k3\k3\obj\Debug\k3.Form2.resources
+C:\Users\User\source\repos\k3\k3\obj\Debug\k3.Form3.resources
+C:\Users\User\source\repos\k3\k3\obj\Debug\k3.Properties.Resources.resources
+C:\Users\User\source\repos\k3\k3\obj\Debug\k3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\k3\k3\obj\Debug\k3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\k3\k3\obj\Debug\k3.exe
+C:\Users\User\source\repos\k3\k3\obj\Debug\k3.pdb
+E:\проекты вижуалки\k3\k3\bin\Debug\k3.exe.config
+E:\проекты вижуалки\k3\k3\bin\Debug\k3.exe
+E:\проекты вижуалки\k3\k3\bin\Debug\k3.pdb
+E:\проекты вижуалки\k3\k3\obj\Debug\k3.csprojAssemblyReference.cache
+E:\проекты вижуалки\k3\k3\obj\Debug\k3.Form1.resources
+E:\проекты вижуалки\k3\k3\obj\Debug\k3.Form2.resources
+E:\проекты вижуалки\k3\k3\obj\Debug\k3.Form3.resources
+E:\проекты вижуалки\k3\k3\obj\Debug\k3.Properties.Resources.resources
+E:\проекты вижуалки\k3\k3\obj\Debug\k3.csproj.GenerateResource.cache
+E:\проекты вижуалки\k3\k3\obj\Debug\k3.csproj.CoreCompileInputs.cache
+E:\проекты вижуалки\k3\k3\obj\Debug\k3.exe
+E:\проекты вижуалки\k3\k3\obj\Debug\k3.pdb
